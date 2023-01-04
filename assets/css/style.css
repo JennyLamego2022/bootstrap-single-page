@@ -11,3 +11,20 @@
     font-size: 24px;
 
 }
+
+.contato-select,.grupo-radio {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    margin-top: 10px;
+}
+
+footer address:last-child{
+    margin-bottom: 0;
+}
